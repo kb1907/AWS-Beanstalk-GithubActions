@@ -4,6 +4,10 @@
 
 AWS-Beanstalk-GithubActions-Pipeline-Demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
+
+![Screen Shot 2022-06-14 at 3 11 26 PM](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
+
+
 New environment
 
 ```bash
@@ -61,3 +65,6 @@ workflow with yaml file
 ```bash
 mkdir -p .github/workflows
 ```
+
+![Screen Shot 2022-06-14 at 4 18 59 PM](https://user-images.githubusercontent.com/51021282/173590717-c0720229-2a15-4927-a454-f7e1f2179661.png)
+
