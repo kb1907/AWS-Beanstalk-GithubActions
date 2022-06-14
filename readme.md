@@ -1,3 +1,5 @@
+[![This a workflow title](https://github.com/kb1907/AWS-Beanstalk-GithubActions/actions/workflows/beanstalk-github.yaml/badge.svg)](https://github.com/kb1907/AWS-Beanstalk-GithubActions/actions/workflows/beanstalk-github.yaml)
+
 # AWS-Beanstalk-GithubActions-Pipeline-Demo
 
 AWS-Beanstalk-GithubActions-Pipeline-Demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
@@ -52,4 +54,10 @@ ebextension directory with config file
 
 ```bash
 mkdir .ebextensions
+```
+
+workflow with yaml file
+
+```bash
+mkdir -p .github/workflows
 ```
